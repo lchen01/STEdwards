@@ -1,0 +1,52 @@
+====== Creating an Email Address ======
+
+Creating an email address in the control panel creates a mailbox on the server for mail to be delivered to. In some cases this might be desired if you want to maintain full control of the email you receive, however in many cases users may wish to simply create an **Email Forwarder** that sets up a custom email address and sends all mail sent to it on to the address of your choice. This article will show you how to setup both methods.
+
+   * Login to [[http://create.ou.edu/dashboard|http://create.ou.edu/dashboard]] using your OUNetID (4x4) and password.
+
+{{ :cpanel:login.jpg?nolink |}}
+
+  * On the homepage of the control panel you will see a section titled **Mail**  that contains several tools for setting up email addresses. To get started let's go to the **Email Accounts**  page. 
+
+{{ :cpanel:ou_domains_dashboard_email.png?nolink |}}
+
+This screen will allow us to setup an email address that uses a mailbox stored on the server. You will be able to access mail sent to this email address either through a webmail client or a desktop/mobile client directly. Enter the desired email address as well as a password to associate with that email address. You can choose to set a quota for how large of a mailbox you need, or set this to unlimited (keep in mind your quota will still be dictated by the limits of the hosting account). Once you're done click **Create Account**.
+
+{{ :cpanel:create_email_account.png?nolink |}}
+
+Your email address is created and it's ready to be used. You have the choice of accessing it via the webmail options built into your control panel, or setting up a mail client directly from your desktop, laptop, or mobile device. To access these options you can click on the **More**  button.
+
+{{ :cpanel:email_account_created.png?nolink |}}
+
+{{ :cpanel:email_more.png?nolink |}}
+
+If you already have an email address you want to use like a Gmail or Hotmail account, you may wish to create an **Email Forwarder**  instead of a mailbox. Setting up a forwarder is very simple. Start by clicking on instead of a mailbox. Setting up a forwarder is very simple. Start by clicking on **Forwarders** from the **Mail** section of your control panel homepage.
+
+{{ :cpanel:ou_domains_dashboard_forwarder.png?nolink |}}
+
+The first screen will show you any existing forwarders that you have created. To setup a new forwarding account, click **Add Forwarder**. 
+
+{{ :cpanel:add_forwarder.png?nolink |}}
+
+To create a new forwarding account, simply type in the desired email address as well as the email address you'd like all mail to be forwarded to. When you are done click **Add Forwarder**. 
+
+{{ :cpanel:add_new_forwarder.png?nolink |}}
+
+You have now successfully created an Email Forwarder and all email sent to your custom email address will be forwarded on to the address you entered.
+
+{{ :cpanel:add_new_forwarder_final.png?nolink |}}
+
+======Video Tutorials======
+
+Create a Self-Hosted Email Account:
+
+{{youtube>tWGOJtOqvzA?medium}}
+
+----
+
+
+Access your Self-Hosted Email Account:
+
+{{youtube>X_BNyp2ac8U?medium}}
+
+{{indexmenu_n>6}}

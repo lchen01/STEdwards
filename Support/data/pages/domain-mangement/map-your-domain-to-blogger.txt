@@ -1,0 +1,22 @@
+====== Map Your Domain to Blogger ======
+
+
+Mapping your domain is an important part of create.ou.edu; it reinforces the idea that you don't necessary need to host all your own applications. You should, however, be mindful of making your web presences part of a domain you control. If you would like to map a subdomain and have not yet created it, use [[http://create.ou.edu/support/cpanel/creating-subdomains|this tutorial on creating subdomains]] before proceeding. To map your domain, or a subdomain, to Blogger, use these steps:
+
+1. To get started you'll need to login to your control panel by going to the create.ou.edu homepage and logging in. {{ :domain-management:create.ou.edu-.jpg?nolink |}}
+2. Here you'll login with you OUNetID (4x4) and password. {{ :domain-management:login.jpg?nolink |}}
+3. Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the **Search box** and type "DNS" (without the quotes). As you type, the cPanel page will begin to narrow down results. Find and click on **Advanced DNS Zone Editor** to continue. {{ :domain-management:dns_zone_editor.png?nolink |}}
+4. Find the domain, or subdomain, you want to map to Blogger in the list of **Zone File Records**. Under the **Action** column, click **Edit**. {{ :domain-management:blogger_domain_edit.png?nolink |}}
+5. Leave the Name, and TTL fields set to their defaults. Update the **Type** drop-down menu to **CNAME**, and the **Address** field to **ghs.google.com**. Click **Edit Record** when you are done. Keep this window open; you will need it in later steps. {{ :domain-management:edit_blogger_record.png?nolink |}}
+6. In a new window, go to the Blogger website, and login with your Blogger/Google username and password. {{ :domain-management:blogger_login.png?nolink |}}
+7. From your Blogger Dashboard, find the blog you'd like to use, expand the **More Options** menu, and click **Settings**. {{ :domain-management:blogger_blog_settings.png?nolink |}}
+8. On the "Basic Settings" page, find the Publishing section, and click the **Setup a 3rd party URL for your blog** link. {{ :domain-management:setup_a_3rd_party_url_for_your_blog.png?nolink |}}
+9. Under **Advanced Settings**, type the full subdomain or domain you are mapping into the box, leave the **Use missing files host?** option set to **No**, then click **Save**. {{ :domain-management:third_party_domain_settings.png?nolink |}}
+10. You will be presented with a message that your domain cannot be verified, along with information about your existing DNS entry, and an additional DNS entry that needs to be made. This is normal. Copy the second entry under the **Name, Label, or Host entry** to your clipboard. {{ :domain-management:third_party_domain_settings_1.png?nolink |}}
+11. Go back to the window or tab containing the **Advanced DNS Zone Editor** in your create.ou.edu cPanel. In the **Add a Record** section, paste the text you just copied into the **Name** field. This information will be different for each domain. Set the **TTL** field to 14400, and the **Type** drop-down menu to **CNAME**. {{ :domain-management:edit_blogger_record_final_1.png?nolink |}}
+12. Go back to the window or tab containing the Blogger Advanced settings panel, and copy the second entry under the **Destination, Target, or Points to** column to your clipboard. {{ :domain-management:third_party_domain_settings_2.png?nolink |}}
+13. Go back to the window or tab containing the **Advanced DNS Zone Editor** in your create.ou.edu cPanel. In the **Zone File Records** section, find the domain you were editing **Action** for and paste the text you just copied into the **CNAME** field. This information will be different for each domain. Click **Edit record** when you are done. {{ :domain-management:edit_blogger_record_final_2.png?nolink |}}
+14. Return to the window or tab containing the Blogger Advanced settings panel, and click **Save**. {{ :domain-management:third_party_domain_settings_3.png?nolink |}}
+15. If everything was successful, your domain will now appear as the **Blog Address**. Keep in mind that it may take up to 72 hours for your domain or subdomain to correctly point all visitors to the correct location. {{ :domain-management:publishing_blog_address.png?nolink |}}
+
+{{indexmenu_n>5}}

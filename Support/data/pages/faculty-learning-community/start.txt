@@ -1,0 +1,10 @@
+#Faculty Learning Community
+
+  * [[faculty-learning-community:week-one|Week One: Understanding the Web]]
+  * [[faculty-learning-community:week-two|Week Two: Digital Identity]]
+  * [[faculty-learning-community:week-three|Week Three: Teaching on the Open Web]]
+  * [[faculty-learning-community:week-four|Week Four: Finding your Digital Community]]
+  * [[faculty-learning-community:week-five|Week Five: Scholarship and Research in a Digital Age]]
+  * [[faculty-learning-community:week-six|Week Six: Our Digital Future]]
+
+{{indexmenu_n>6}}

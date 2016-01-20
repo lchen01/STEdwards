@@ -1,0 +1,140 @@
+====== Applications Available in Installatron ======
+
+Installatron, the script installer that is part of the create.ou.edu cPanel, allows you to [[http://create.ou.edu/support/cpanel/installing-applications|easily install Web appilcations]] to your Web space. Below is a list of all of the applications currently available to you through Installatron:
+
+===== Community Building =====
+
+  * Vanila Forums
+  * MediaWiki
+  * ExtCalendar
+  * phpScheduler
+  * WebCalendar
+  * phpFreeChat
+  * phpMyChat
+  * Dada Mail
+  * PHPlist
+  * Site Recommender
+  * FluxBB
+  * MyBB
+  * phpBB
+  * Simple Machines
+  * XMB Forum
+  * Elgg
+  * Oxwall
+  * Pligg
+  * GBook
+  * Lazarus Guestbook
+  * DokuWiki
+  * PmWiki
+  * WikkaWiki
+
+===== Content Management =====
+
+  * WordPress
+  * Drupal
+  * Omeka
+  * b2evolution
+  * Geeklog
+  * PivotX
+  * Serendipity
+  * Textpattern
+  * CMS Made Simple
+  * concrete5
+  * Contao
+  * ImpressPages
+  * liveSite
+  * Nucleus CMS
+  * phpwcms
+  * PyroCMS
+  * SilverStripe
+  * Soholaunch
+  * TYPO3
+  * WebsiteBaker
+  * Chamilo
+  * Moodle
+  * phpMyFAQ
+  * Code Igniter
+  * Coranto
+  * MODx
+  * e107
+  * Joomla
+  * Mahara
+  * Mambo
+  * ocPortal
+  * PHP-Fusion
+  * PHP-Nuke
+  * Tiki Wiki CMS Groupware
+  * Xoops
+  * Zikula
+
+===== e-Commerce and Business =====
+
+  * OpenX
+  * OSClass
+  * Quicksell Classifieds
+  * FrontAccounting
+  * OrangeHRM
+  * Feng Office
+  * SugarCRM
+  * Vtiger
+  * Zurmo
+  * CubeCart
+  * Magento
+  * OpenCart
+  * osCommerce
+  * PrestaShop
+  * TomatoCart
+  * Zen Cart
+  * BoxBilling
+  * phpCOIN
+  * Simple Invoices
+  * WHMCS
+  * Collabtive
+  * Mantis
+  * PHProjekt
+  * Crafty Syntax Live Help
+  * Help Center Live
+  * HESK
+  * osTicket
+
+===== Photos and Files =====
+
+  * ownCloud
+  * Gallery
+  * GQ File Manager
+  * OpenDocMan
+  * Power File Manager
+  * ProjectSend
+  * Coppermine
+  * Piwigo
+  * TinyWebGallery
+  * ZenPhoto
+
+===== Surveys and Statistics =====
+
+  * Aardvark Topsites
+  * Advanced Poll
+  * LimeSurvey
+  * phpESP
+  * Simple Poll
+  * phpMyCounter
+  * Piwiki
+  * Seo Panel
+
+===== Miscellaneous =====
+
+  * YOURLS
+  * Tiny Tiny RSS
+  * PHPLinks
+  * SiteBar
+  * iTron Clock
+  * WebCards
+  * Contact Form
+  * Form Tools
+  * phpFormGenerator
+  * webtrees
+  * Feed on Feeds
+  * selfoss
+  * Search Engine Project
+
+{{indexmenu_n>3}}

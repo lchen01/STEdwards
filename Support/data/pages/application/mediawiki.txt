@@ -1,0 +1,40 @@
+{{indexmenu_n>2}}
+
+====== Installing MediaWiki ======
+
+MediaWiki is an open-source publishing platform that can be used for creating a collaborative document repository. It's the software that drives the [[http://wikipedia.com|Wikipedia]] website. Setting up a MediaWiki install on your own domain can be done by following these steps:
+
+1. To get started you'll need to login to your control panel ([[http://create.ou.edu/dashboard|create.ou.edu]]) using your OUNetID (4x4) and password. {{ :applications:login.jpg?nolink |}}
+2. Once logged in you'll be at the homepage of your control panel. Navigate the **Web Applications** section of the cPanel and click **View More** for the **Featured Applications**. Then find and select **MediaWiki** {{ :applications:web_applications.png?nolink |}} {{ :applications:installatron_mediawiki.png?nolink |}}
+3. The next page gives you more information about the MediaWiki software. To begin the install, click
+**install this application**in the upper-righthand corner. {{ :applications:install_mediawiki.png?nolink |}}
+4. On the next page the installer will ask for some information about this install. The first thing you'll want to do is decide where to install it. If you're wanting to install MediaWiki on your main (the root) domain, you can leave the directory area empty. If you created a subdomain, you can select it from the dropdown menu. You also have the option of installing MediaWiki in a subfolder by typing in the folder name in the
+**Directory** field. In this instance, we have opted to install it in a subdomain called mediawiki.createoutestdomain.com. Click here for more information about [[http://create.ou.edu/support/cpanel/subdomains-vs-subfolders|subdomains and subfolders]]. {{ :applications:mediawiki_subdomain.png?nolink |}} (By default the installer will automatically backup your MediaWiki website and update it anytime a new version comes out. While we recommend you keep this option, it is possible to only do minor updates, or turn them off completely. The installer will also create a database for you automatically, but if you've already created one for this website you can choose **Let me manage the database settings** and enter the details.)
+5. Finally, you'll need to create an initial username and password for the WordPress install. Enter that information in final section and click **Install** (Note: A default username and password are provided for you. {{ :applications:mediawiki_user_settings.png?nolink |}}
+
+The installer will take just a few moments to install WordPress and a progress bar will keep you updated. When it is complete you will see a link to your new MediaWiki site as well as a link to the backend administrative section for your MediaWiki site.
+
+{{ :applications:my_wiki_links.png?nolink |}}
+
+Congratulations, you have now completed the installation of MediaWiki! You can now start to create collaborative documents on your own domain. 
+
+{{ :applications:my_mediawiki.png?nolink |}}
+
+====== Managing Permissions ======
+
+The default Mediawiki installed has been customized to make it a bit harder for spammers to overwhelm wikis with illegitimate content and comments. This is done by modifying the **LocalSettings.php** file (a file that is included in every install in which it is possible to provide configurations details).
+
+By default, Mediawiki allows anonymous users to create pages and edit pages in the wiki. The modifications change this in the following ways:
+
+  * Anonymous users cannot edit existing pages
+  * Anonymous users cannot create pages
+  * Registered users must click the confirmation link in the registration email in order to edit or create pages
+
+This approach should drastically reduce unsolicited content and comments on Mediawiki installations. One further step that administrator might take is to turn registration off after a predetermined amount of time. Users must create accounts by this date; after that, the settings are changed so that registrations are no longer open.
+
+To add this setting, you must edit **LocalSettings.php** in your Mediawiki install:
+
+1. Login to cPanel and browse to your [[http://create.ou.edu/support/cpanel/accessing-your-files-through-the-file-manager|File Manager]].
+2. In the File Manager, browser to the folder within public_html that contains your Mediawiki install. If you installed the wiki at the root of your domain, you won't need to go any further than public_html. If you installed the wiki in a subdomain or subdirectory, you'll need to find the directory that is associated with that space.
+3. Locate **LocalSettings.php** and click the **Edit** or **Code Editor** icon at the top of the File Manager.
+4. Browse to the bottom of the document, and locate the custom settings that were added during the Mediawiki install and the line "$wgGroupPermissions['*']['createaccount'] = false;" {{http://farm8.staticflickr.com/7305/11953831465_8e29aea940_z.jpg}}

@@ -1,0 +1,26 @@
+====== Create St. Edwards Support ======
+
+~~NOTOC~~
+Welcome to the Create St. Edwards support wiki. You'll find lots of information about the software and tools that support the [[http://create.stedwards.edu|Create St. Edwards]] project as well as information on how you can find out more.
+
+
+====== Your Domain ======
+You've got a lot of tools at your disposal with the Create St. Edwards project but maybe you're unsure where to start. We've got you covered with [[domain-management:start|documentation on a variety of the tools]] you'll find in the control panel.
+
+{{ ::wordpress-logo.jpg?nolink |}}
+====== Wordpress ======
+We have extensive documentation on Wordpress available to help assist you. Everything from publishing basics to installing new themes. You can view the [[applications:wordpress|full documentation here]].
+
+{{ :ou.jpg?nolink&69 |}}
+====== Getting Started ======
+* [[general:Choosing a Domain Name]]\\
+* [[general:what-can-you-do-with-your-create-ou-account|What Can You Do with Your OU Create Account?]]\\
+* [[cpanel:introduction-to-cpanel|Introduction to cPanel]]\\
+* [[[[cpanel:installing-applications|Installing Applications with Installatron]]\\
+
+Working with specific applications:\\
+* [[applications:wordpress|Using WordPress]]\\
+* [[applications:mediawiki|Installing MediaWiki]]\\
+* [[applications:omeka|Getting started with Omeka]]
+</WRAP>
+Having problem? Want to talk to a human? Contact us…

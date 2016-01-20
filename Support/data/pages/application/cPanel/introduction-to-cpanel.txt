@@ -1,0 +1,19 @@
+====== Introduction to cPanel ======
+
+Your Web hosting account on create.ou.edu is managed through a control panel interface called cPanel. [[https://cpanel.net/ | cPanel]] is an industry-standard tool for managing your domain and hosting. Using this tool, you can do all kind of thing with your Web space including the following:
+
+  * install Web applications
+  * create email accounts
+  * view and manage files in your space
+  * create subdomains
+  * create and configure FTP accounts
+  * review access logs for your site
+  * manually manage and configure databases
+
+Accessing cPanel has become even easier now! All you need to do is login at the top right of the page at [[http://create.ou.edu|create.ou.edu]] (with OUNetID (4x4) and password) and your website's cPanel will automatically be displayed upon login.
+
+Once you're logged in, you'll see the cPanel interface. It is divided into sections, making it easy to locate the different tools and services available to you. 
+
+Many of the tutorials on this site walk you through particular tasks in cPanel, but we encourage you to explore on your own, as well.
+
+{{indexmenu_n>1}}

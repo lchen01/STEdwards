@@ -1,0 +1,13 @@
+{{indexmenu_n>2}}
+
+====== cPanel Dashboard ======
+
+  * [[introduction-to-cpanel|Introduction to cPanel]]
+  * [[installing-applications|Installing Applications with Installatron]]
+  * [[applications-available-in-installatron|Applications Available using Installatron]]
+  * [[Accessing your Files through the File Manager]]
+  * [[File Structures and the File Manager]]
+  * [[Creating an Email Address]]
+  * [[Setting up FTP]]
+  * [[creating-subdomains|Setting Up Subdomains]]
+  * [[subdomains-vs-subfolders|Subdomains Vs. Subdirectories]]

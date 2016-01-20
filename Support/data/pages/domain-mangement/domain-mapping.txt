@@ -1,0 +1,10 @@
+{{indexmenu_n>3}}
+
+====== What is Domain Mapping? ======
+
+Domain mapping, simply put, is deciding where visitors should be directed when they visit various pieces of your website. Domains and subdomains can be mapped directly to folders located within your webhosting account, where you may have installed WordPress, Omeka, MediaWiki, or other web applications. Domains and subdomains can also be mapped to some third-party providers. Because the purpose of this workshop is for you to learn about owning and hosting your own domain and web presence, including content hosted by third-party companies, we encourage experimenting with mapping domains and subdomains to third-party services as needed.
+
+We have created a series of instructions documenting how to map your subdomains to popular third-party services:
+
+  * [[domain-management:map-your-domain-to-tumblr|Map Your Domain to Tumblr]]
+  * [[domain-management:map-your-domain-to-blogger|Map Your Domain to Blogger]]

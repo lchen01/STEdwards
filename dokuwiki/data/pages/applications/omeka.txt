@@ -1,0 +1,20 @@
+{{indexmenu_n>3}}
+
+====== Installing Omeka ======
+
+[[http://omeka.org/about/|Omeka]] is an open-source web application that can be used to create and display online digital collections. Developed by programmers at George Mason University, Omeka was designed to be user-friendly, both during installation and setup and during daily usage. To install Omeka, use these simple steps:
+
+1. To get started you'll need to login to your control panel ([[http://create.ou.edu/dashboard|create.ou.edu]]) using your OUNetID (4x4) and password. {{ :applications:login.jpg?nolink |}}
+2. Once logged in you'll be at the homepage of your control panel. Navigate the **Web Applications** section of the cPanel and click **View More** for the **Featured Applications**. Then find and select **Omeka** {{ :applications:web_applications.png?nolink |}} {{ :applications:installatron_omeka.png?nolink |}}
+3. This page gives you more information about the Omeka software. To begin the install click **install this application** in the upper-righthand corner. {{ :applications:install_omeka.png?nolink |}}
+4. On the next page the installer will ask for some information about this install. The first thing you'll want to do is decide where to install it. If you're wanting to install Omeka on your main domain, you can leave the directory area empty. If you created a subdomain, you can select it from the dropdown menu. You also have the option of installing Omeka in a subfolder by typing in the folder name in the **Directory** field. Click here for more information about [[http://create.ou.edu/support/cpanel/subdomains-vs-subfolders|subdomains and subfolders]]. {{ :applications:omeka_subdomain.png?nolink |}}
+5. By default the installer will automatically backup your website and update it anytime a new version comes out. While we recommend you keep this option, it is possible to only do minor updates, or turn them off completely. The installer will also create a database for you automatically, but if you've already created one for this website you can choose **Let me manage the database settings**  and enter the details. Click **Install** to continue. {{ :applications:omeka_database_management.png?nolink |}}
+6. The installer will take just a few moments to install Omeka and a progress bar will keep you updated. When it is complete you will see a link to your new Omeka site as well as a link to the backend administrative section for your Omeka site. Click the **website**  link to configure your new Omeka installation. {{ :applications:my_omeka_links.png?nolink |}}
+7. When you visit your new Omeka installation for the first time, you will be taken to the site configuration page. Enter a **Username**, **Password**, and **Email** for the administrative superuser (i.e. yourself).
+{{http://farm6.staticflickr.com/5342/9422087925_cf7c86c725_o_d.jpg?nolink&502x583}}
+8. Under "Site Settings," enter an **Administrator Email**  and a **Site Title**. The Administrator email is the address that messages from the system (e.g. forgot password email reminder) will appear to come from. You might want to [[http://create.ou.edu/support/cpanel/creating-an-email-address|create a custom email address using these instructions]], for example [[webmaster@yourdomain.com|webmaster@yourdomain.com]] or [[omeka-admin@yourdomain.com|omeka-admin@yourdomain.com]], to use for this purpose. The **Site Title** will appear at the top of your visitors' browser windows.
+{{http://farm3.staticflickr.com/2856/9422087901_f1349b92bc_o_d.jpg?nolink&496x521}}
+9. Further down the **Site Settings** page are several numerical settings; you may leave these at the defaults if you are new to Omeka. When you are done making changes, click the **Install** button to submit the configuration page and proceed.
+{{http://farm4.staticflickr.com/3750/9422087885_d63b931583_b_d.jpg?nolink&493x817}}
+10. Congratulations! Omeka is now installed. Use the buttons to either proceed to the **Public Site**, or to begin adding content, go to the **Admin Dashboard**.
+{{http://farm8.staticflickr.com/7410/9422087847_242d03b60f_o_d.jpg?nolink&493x309}}**

@@ -1,0 +1,42 @@
+====== Installing Applications with Installatron ======
+
+Installatron is a script installer that allows you to quickly and easily install Web applications to on the Web space. By default, when you use Installatron, the application you add will be automatically upgraded whenever a new version is available (and a backup will be kept, just in case).
+
+===== Installing Applications Using Installatron =====
+
+  * To get started you'll need to login to your control panel by going to http://create.ou.edu/dashboard.
+  * Here you'll login with your OUNetID (4x4) and password. 
+
+{{ :cpanel:login.jpg?nolink |}}
+
+  * Once logged in you'll be at the homepage of your control panel. You will need to scroll down until you see a section of the Control Panel labeled "Software/Services." Within this section you will see an icon for **Installatron** which you should click.​
+
+{{ :cpanel:softwaresrevices.png?nolink |}}
+
+  * When Installatron opens, you will see a list of any applications you've already installed. To install something new, click on the **Applications Browser** button (labeled with a large star).
+
+{{ :cpanel:application_browser.png?nolink |}}
+
+  * A listing of all of the applications you can install be default in Installatron will appear. Browse to the one you want to install, and click the icon.
+  * After clicking the icon, a page will appear with information about the application, links to resources, and a link to install it.
+
+{{ :cpanel:elgg_-_installatron_applications_browser.jpg?nolink |}}
+
+  * Click "Install this application" when you are ready.
+  * A page will appear with a number of settings you can choose/change. The image below shows these settings; here is a rundown of them:
+
+{{ :cpanel:installatron_process.jpg?nolink |}}
+
+  * **Location**: You'll need to choose where to install your new application. You can install it at the root of your domain or in a subdomain (which you need to set up first). In addition, you can place your application in a folder (in either your root domain or a subdomain)
+  * **Version Information**: You can choose a version of the application. Generally, we recommend choosing the default version. It is likely to be the most recent, stable release.
+  * **Updates & Database Management**: By default, the system is set up to automatically upgrade (and create backups upon upgrading) all applications. In addition, by default, the database will be set up for you automatically. //We recommend NOT changing these options//.
+  * **Username/Password**: An username/password will be automatically generated for you. You can choose to change this, if you like.
+  * **Website Title**: Pick a title for the site that will be created when you install your application. You should change this from the default title! After installation, you'll be taken back to the main Installatron page, with details about the application you just installed. At anytime you can come back here to review the application details, back it up manually, or uninstall it.
+
+{{ :cpanel:my_groupware.png?nolink |}}
+
+To get to your new site, you can click the "website" link. What's more, with certain applications you can use this space to login to the admin area.
+
+In addition, you'll have received an email with your username/password and a link to your new site.
+
+{{indexmenu_n>2}}

@@ -1,0 +1,47 @@
+====== Signing up on create.ou.edu ======
+
+Getting started on create.ou.edu is a straightforward process. 
+
+{{youtube>U-AUqrmXJDI?medium}}
+
+===== Reviewing the Guidelines =====
+
+Before you get started, we recommend that you review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
+
+===== The Sign-Up Process =====
+
+Once you've reviewed the guidelines, you can proceed to the [[http://create.ou.edu|sign-up page.]] 
+
+Click on the right hand side where it says "Login"
+
+{{ :general:create.ou.edu-.jpg?nolink |}}
+
+You will be redirected to login for verification. You will use your OUNetID(4x4) and password to login.
+
+{{ :general:login.jpg?nolink |}}
+
+The first thing you need to do is enter the domain name you wish to register. Our system will check to be sure the domain name you've chosen is available. When you've found an available domain that you want, click the button labeled **Click to Continue**. 
+
+{{ :general:available_domain.png?nolink |}}
+
+You'll next seen a "Domains Configuration" and "Order Summary" pages respectively, showing an option for ID protection and the domain you chose. Review your order and click the **Checkout** button.
+
+{{ :general:id_protection.png?nolink |}}
+
+{{ :general:order_summary.png?nolink |}}
+
+On the "Checkout" page that appears next, you'll be asked to review and agree to the create.ou.edu **Terms of Service**. When you're done click the **Complete Order** button. 
+
+{{ :general:terms_of_service.png?nolink |}}
+
+It can take 20-30 seconds for your order to complete. When it's done, a confirmation page will appear. Click the the **Proceed to Dashboard** link to continue.
+
+{{ :general:proceed_to_dashboard.png?nolink |}}
+
+Once complete, you should be on the following dashboard page:
+
+{{ :general:ou_domains_dashboard.png?nolink |}}
+
+That's it. You're now the proud owner of your own domain and Web hosting space!
+
+{{indexmenu_n>2}}

@@ -1,0 +1,14 @@
+#General Information
+
+  * [[general:Choosing a Domain Name]]
+  * [[general:Signing up on Create OU]]
+  * [[general:Understanding Create OU Accounts & Passwords]]
+  * [[general:Privacy and Create OU]]
+  * [[general:What Can You Do with your Create OU Account?]]
+  * [[general:What Exactly is a Web Application?]]
+  * [[general:Static and Dynamic Websites]]
+  * [[general:LAMP Environments]]
+  * [[general:What are the technical requirements and limitations of create.ou.edu?]]
+  * [[general:Social Media]]
+
+{{indexmenu_n>1}}

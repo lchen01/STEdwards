@@ -1,0 +1,6 @@
+#Wiki
+
+* [[wiki:dokuwiki|DokuWiki]]
+* [[wiki:welcome|Welcome to your new DokuWiki]]
+* [[wiki:syntax|Formatting Syntax]]
+{{indexmenu_n>5}}

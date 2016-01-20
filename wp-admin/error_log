@@ -1,0 +1,4 @@
+[30-Sep-2015 19:29:56 UTC] WordPress database error Table 'lchencre_wp1.wp_wppa_session' doesn't exist for query UPDATE `wp_wppa_session` SET `data` = 'N;' WHERE `session` = 'e3547461e62c89a47e1bc930c4037e96' made by shutdown_action_hook, do_action('shutdown'), call_user_func_array, wppa_session_end
+[05-Nov-2015 20:53:27 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/lchencre/public_html/wp-includes/media.php on line 2130
+[05-Nov-2015 20:53:27 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/lchencre/public_html/wp-includes/class-wp-image-editor-gd.php on line 300
+[05-Nov-2015 20:53:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/lchencre/public_html/wp-includes/class-wp-image-editor-gd.php on line 302

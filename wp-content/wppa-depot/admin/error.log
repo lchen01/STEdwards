@@ -1,0 +1,79 @@
+Error: on:September 30, 2015 7:29 pm: lchen1 Unable to save session.
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_start_symbol_url] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:732]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_pause_symbol_url] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:733]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_stop_symbol_url] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:734]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_start_pause_symbol_size] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:735]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_start_pause_symbol_bradius] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:736]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_stop_symbol_size] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:737]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_stop_symbol_bradius] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:738]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_ovl_border_radius] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:739]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_ovl_border_width] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:740]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_left_symbol_url] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:741]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_right_symbol_url] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:742]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_left_right_symbol_size] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:743]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+
+{b}Err{/b}: on:December 10, 2015 9:58 am: 206.221.179.11: $wppa_opt[wppa_left_right_symbol_bradius] is not a setting
+#0  wppa_log() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:333]
+#1  wppa_opt() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:744]
+#2  wppa_create_wppa_init_js() called at [/home/lchencre/public_html/wp-content/plugins/wp-photo-album-plus/wppa-non-admin.php:268]
+#3  wppa_add_javascripts()
+

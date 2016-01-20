@@ -1,0 +1,16 @@
+Create St. Edwards is a project at the [[http://create.stedwards.edu/|St. Edwards]] managed by the [[http://think.stedwards.edu/computerhelp/|OIT Support]].
+
+{{indexmenu>..| * General Information}}
+
+===Choosing a Domain Name===[[applications:wordpress|full documentation here]]
+
+{{indexmenu>..#2| cPanel Dashboard}}
+
+{{indexmenu>..#2| Domain Management}}
+
+{{indexmenu>..#2| Applications}}
+
+{{indexmenu>..#2| Wiki}}
+
+{{indexmenu>..#2| Faculty Learning Community}}
+ 

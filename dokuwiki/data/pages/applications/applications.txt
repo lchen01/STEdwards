@@ -1,0 +1,6 @@
+#Applications
+
+* [[applications:wordpress|WordPress]]
+* [[applications:mediawiki|Installing Mediawiki]]
+* [[applications:omeka|Installing Omeka]]
+{{indexmenu_n>4}}

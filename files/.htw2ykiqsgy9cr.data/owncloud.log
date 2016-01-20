@@ -1,0 +1,2 @@
+{"reqId":"Vk6akc7dswsAA8WA7iQAAAAG","remoteAddr":"206.221.179.11","app":"core","message":"starting upgrade from 8.2.0.12 to 8.2.1.4","level":0,"time":"2015-11-20T03:59:14+00:00","method":"GET","url":"\/core\/ajax\/update.php"}
+{"reqId":"VnrFXc7dswsADheEgX8AAAAD","remoteAddr":"206.221.179.11","app":"core","message":"starting upgrade from 8.2.1.4 to 8.2.2.2","level":0,"time":"2015-12-23T16:01:34+00:00","method":"GET","url":"\/core\/ajax\/update.php"}

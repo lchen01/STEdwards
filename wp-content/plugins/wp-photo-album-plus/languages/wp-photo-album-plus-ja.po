@@ -1,0 +1,1715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Photo Album Plus\n"
+"POT-Creation-Date: 2016-01-13 11:47+0100\n"
+"PO-Revision-Date: 2016-01-13 11:47+0100\n"
+"Last-Translator: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language-Team: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wppa.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: theme/photo-album-page.php:30 theme/photo-album-search-page.php:52
+#, fuzzy
+msgid "Pages:"
+msgstr "次の&nbsp;ページ"
+
+#: theme/photo-album-page.php:31 theme/photo-album-search-page.php:53
+#: wppa-functions.php:1914 wppa-thumbnails.php:597
+#, fuzzy
+msgid "Edit"
+msgstr "編集"
+
+#: theme/photo-album-search-page.php:30
+msgid "Warning. No page defined for search results!"
+msgstr ""
+
+#: theme/photo-album-search-page.php:39 wppa-boxes-html.php:168
+#, fuzzy
+msgid "Search"
+msgstr "検索"
+
+#: theme/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: theme/search.php:29
+msgid "Nothing Found"
+msgstr ""
+
+#: theme/search.php:31
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: theme/wppa-theme.php:328 theme/wppa-theme.php:347
+#, fuzzy
+msgid "No photos found matching your search criteria."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#: theme/wppa-theme.php:331
+#, fuzzy
+msgid "No albums found matching your search criteria."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#: theme/wppa-theme.php:334
+msgid "No albums or photos found matching your search criteria."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#: wppa-album-covers.php:1256
+msgid "Link to"
+msgstr "リンク先:"
+
+#: wppa-album-covers.php:1286 wppa-album-covers.php:1345
+#: wppa-album-covers.php:1353 wppa-album-covers.php:1588
+msgid "View the album"
+msgstr "アルバムの閲覧"
+
+#: wppa-album-covers.php:1306
+#, fuzzy
+msgid "View the cover photo"
+msgid_plural "View the cover photos"
+msgstr[0] "カバーフォトの閲覧"
+msgstr[1] "カバーフォトの閲覧"
+
+#: wppa-album-covers.php:1363
+msgid "View"
+msgstr "閲覧"
+
+#: wppa-album-covers.php:1365
+#, fuzzy, php-format
+msgid "%d album"
+msgid_plural "%d albums"
+msgstr[0] "アルバム "
+msgstr[1] "アルバム "
+
+#: wppa-album-covers.php:1371 wppa-boxes-html.php:1159 wppa-breadcrumb.php:148
+#: wppa-breadcrumb.php:154 wppa-breadcrumb.php:161 wppa-breadcrumb.php:368
+#: wppa-breadcrumb.php:379
+msgid "and"
+msgstr "および"
+
+#: wppa-album-covers.php:1374
+#, fuzzy, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] "編集"
+msgstr[1] "編集"
+
+#: wppa-album-covers.php:1437
+#, fuzzy
+msgid "New!"
+msgstr ""
+"新しいページを作成し、「フォトギャラリー」などの名前にし、コンテンツには次の"
+"ように記載します:"
+
+#: wppa-album-covers.php:1440 wppa-thumbnails.php:1899 wppa-thumbnails.php:1900
+#, fuzzy
+msgid "New"
+msgstr ""
+"新しいページを作成し、「フォトギャラリー」などの名前にし、コンテンツには次の"
+"ように記載します:"
+
+#: wppa-album-covers.php:1681 wppa-boxes-html.php:828 wppa-non-admin.php:663
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: wppa-album-covers.php:1682
+msgid "Browse photos"
+msgstr "写真をブラウズ"
+
+#: wppa-album-covers.php:1719 wppa-breadcrumb.php:389 wppa-breadcrumb.php:394
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wppa-audio.php:183
+msgid ""
+"There is no filetype available for your browser, or your browser does not "
+"support html5 audio"
+msgstr ""
+
+#: wppa-boxes-html.php:133 wppa-boxes-html.php:235
+#, fuzzy
+msgid "Photo search results"
+msgstr "警告。検索結果用ページが定義されていません！"
+
+#: wppa-boxes-html.php:367 wppa-breadcrumb.php:136
+#, fuzzy
+msgid "Albums"
+msgstr "アルバム"
+
+#: wppa-boxes-html.php:373 wppa-breadcrumb.php:151
+#, fuzzy
+msgid "Photos"
+msgstr "写真"
+
+#: wppa-boxes-html.php:392
+msgid "Category"
+msgstr ""
+
+#: wppa-boxes-html.php:399 wppa-boxes-html.php:513
+msgid "Name"
+msgstr ""
+
+#: wppa-boxes-html.php:405 wppa-boxes-html.php:538
+msgid "Text"
+msgstr ""
+
+#: wppa-boxes-html.php:421 wppa-boxes-html.php:475 wppa-boxes-html.php:621
+#: wppa-boxes-html.php:651
+msgid "CTRL+Click to add/remove option."
+msgstr ""
+
+#: wppa-boxes-html.php:422 wppa-boxes-html.php:476 wppa-boxes-html.php:622
+#: wppa-boxes-html.php:652
+msgid "Items must meet all selected options."
+msgstr ""
+
+#: wppa-boxes-html.php:521
+msgid "Owner"
+msgstr ""
+
+#: wppa-boxes-html.php:530
+msgid "Tag"
+msgstr ""
+
+#: wppa-boxes-html.php:546
+msgid "Iptc"
+msgstr ""
+
+#: wppa-boxes-html.php:555
+msgid "Exif"
+msgstr ""
+
+#: wppa-boxes-html.php:753 wppa-boxes-html.php:832
+msgid "Submit"
+msgstr ""
+
+#: wppa-boxes-html.php:795
+#, fuzzy
+msgid "Super View Photos"
+msgstr "カバーフォトの閲覧 "
+
+#: wppa-boxes-html.php:804 wppa-breadcrumb.php:276 wppa-breadcrumb.php:294
+#: wppa-breadcrumb.php:322 wppa-breadcrumb.php:340 wppa-breadcrumb.php:404
+#: wppa-breadcrumb.php:429 wppa-breadcrumb.php:577
+msgid "Album:"
+msgstr "アルバム:"
+
+#: wppa-boxes-html.php:820
+#, fuzzy
+msgid "Thumbnails"
+msgstr "アルバムにある写真のサムネイル画像がひと目でわかります。"
+
+#: wppa-boxes-html.php:866
+#, fuzzy
+msgid "Tagged photos"
+msgstr "写真"
+
+#: wppa-boxes-html.php:880
+#, fuzzy
+msgid "Please select a tagcloud landing page in Table VI-C3b"
+msgstr "写真のコピー先となるアルバムを先に選択してください。"
+
+#: wppa-boxes-html.php:939
+#, fuzzy
+msgid "Multi Tagged photos"
+msgstr "写真"
+
+#: wppa-boxes-html.php:953
+#, fuzzy
+msgid "Please select a multitag landing page in Table VI-C4b"
+msgstr "写真のコピー先となるアルバムを先に選択してください。"
+
+#: wppa-boxes-html.php:998
+#, fuzzy
+msgid "Please check the tag(s) that the photos must have"
+msgstr "写真の投票にはログインが必須。"
+
+#: wppa-boxes-html.php:1029
+#, fuzzy
+msgid "And"
+msgstr "および"
+
+#: wppa-boxes-html.php:1040
+msgid "Or"
+msgstr ""
+
+#: wppa-boxes-html.php:1055
+msgid "Inverse selection"
+msgstr ""
+
+#: wppa-boxes-html.php:1108
+#, fuzzy
+msgid "Find!"
+msgstr "管理画面にフォトアルバムの管理項目が追加されます。"
+
+#: wppa-boxes-html.php:1135
+#, fuzzy
+msgid "Social media landing page"
+msgstr "ウィジェットのタイトル:"
+
+#: wppa-boxes-html.php:1160
+#, fuzzy, php-format
+msgid "See this image on %s"
+msgstr "画像(url):"
+
+#: wppa-boxes-html.php:1185
+msgid "QR code"
+msgstr ""
+
+#: wppa-boxes-html.php:1230
+#, fuzzy, php-format
+msgid "Tweet %s on Twitter"
+msgstr "投票: %s"
+
+#: wppa-boxes-html.php:1237
+msgid "Share on Twitter"
+msgstr ""
+
+#: wppa-boxes-html.php:1250
+#, fuzzy, php-format
+msgid "Share %s on Google+"
+msgstr "投票: %s"
+
+#: wppa-boxes-html.php:1258
+msgid "Share on Google+"
+msgstr ""
+
+#: wppa-boxes-html.php:1273
+#, fuzzy, php-format
+msgid "Share %s on Pinterest"
+msgstr "投票: %s"
+
+#: wppa-boxes-html.php:1282
+msgid "Share on Pinterest"
+msgstr ""
+
+#: wppa-boxes-html.php:1417
+#, fuzzy
+msgid "Comment on Facebook:"
+msgstr "コメントを残す"
+
+#: wppa-boxes-html.php:1518
+msgid "Working..."
+msgstr ""
+
+#: wppa-boxes-html.php:1520 wppa-boxes-html.php:1523
+#, fuzzy
+msgid "Delete album"
+msgstr "アルバムの削除"
+
+#: wppa-boxes-html.php:1610
+#, fuzzy
+msgid "Create Album"
+msgstr "アルバムが作成できません。"
+
+#: wppa-boxes-html.php:1655
+#, fuzzy
+msgid "Enter album name."
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-boxes-html.php:1657 wppa-boxes-html.php:2371
+#, fuzzy
+msgid "Don't leave this blank!"
+msgstr "コメントを残す"
+
+#: wppa-boxes-html.php:1676
+#, fuzzy
+msgid "Enter album description"
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-boxes-html.php:1698
+#, fuzzy
+msgid "Create album"
+msgstr "アルバムが作成できません。"
+
+#: wppa-boxes-html.php:1754 wppa-boxes-html.php:1767 wppa-functions.php:4011
+#, fuzzy
+msgid "Max uploads reached"
+msgstr "最大高。"
+
+#: wppa-boxes-html.php:1834
+#, fuzzy
+msgid "Upload Photo"
+msgstr "写真のアップロード"
+
+#: wppa-boxes-html.php:1942
+#, fuzzy, php-format
+msgid "You may upload %d photo"
+msgid_plural ""
+"You may upload up to %d photos at once if your browser supports HTML-5 "
+"multiple file upload"
+msgstr[0] "写真をアップロードしてください。"
+msgstr[1] "写真をアップロードしてください。"
+
+#: wppa-boxes-html.php:1951
+#, fuzzy, php-format
+msgid "Max photo size: %d x %d (%2.1f MegaPixel)"
+msgstr "カバーフォトのサイズ。"
+
+#: wppa-boxes-html.php:1980
+#, fuzzy
+msgid "Apply watermark file:"
+msgstr ""
+"これは「カバーのサムネイル」にも適用されますが、単一アイテムには適用しませ"
+"ん。"
+
+#: wppa-boxes-html.php:2002
+#, fuzzy
+msgid "Position:"
+msgstr "サムネイル画像の配置場所を指定してください。"
+
+#: wppa-boxes-html.php:2030
+#, fuzzy
+msgid ""
+"If you leave this blank, iptc tag 005 (Graphic name) will be used as "
+"photoname if available, else the original filename will be used as photo "
+"name."
+msgstr "写真の名称"
+
+#: wppa-boxes-html.php:2035
+#, fuzzy
+msgid ""
+"If you leave this blank, iptc tag 120 (Caption) will be used as photoname if "
+"available, else the original filename will be used as photo name."
+msgstr "--- なし --- 使用。"
+
+#: wppa-boxes-html.php:2040
+#, fuzzy
+msgid ""
+"If you leave this blank, the original filename will be used as photo name."
+msgstr "アルバムの名称を入力してください。この項目は空欄にできません。"
+
+#: wppa-boxes-html.php:2054
+#, fuzzy
+msgid "Enter photo name"
+msgstr "写真の名称"
+
+#: wppa-boxes-html.php:2075
+#, fuzzy
+msgid "Enter/modify photo description"
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-boxes-html.php:2106
+msgid "hidden"
+msgstr ""
+
+#: wppa-boxes-html.php:2176
+#, fuzzy
+msgid "Preview tags:"
+msgstr "選択:"
+
+#: wppa-boxes-html.php:2191
+#, fuzzy
+msgid "Please select an album and try again"
+msgstr "写真のコピー先となるアルバムを先に選択してください。"
+
+#: wppa-boxes-html.php:2205
+#, fuzzy
+msgid "Upload photo"
+msgstr "写真のアップロード"
+
+#: wppa-boxes-html.php:2261
+#, fuzzy
+msgid "ERROR: unable to upload files."
+msgstr "写真のエクスポート先: <b>%s</b>。"
+
+#: wppa-boxes-html.php:2311
+#, fuzzy
+msgid "Edit albuminfo"
+msgstr "編集"
+
+#: wppa-boxes-html.php:2369
+#, fuzzy
+msgid "Enter album name"
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-boxes-html.php:2391
+#, fuzzy
+msgid "Album description:"
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-boxes-html.php:2410
+#, fuzzy
+msgid "Update album"
+msgstr "サムネイル更新"
+
+#: wppa-boxes-html.php:2484
+msgid "wrote:"
+msgstr ""
+
+#: wppa-boxes-html.php:2538
+msgid "Avatar"
+msgstr ""
+
+#: wppa-boxes-html.php:2581
+#, fuzzy
+msgid "Awaiting moderation"
+msgstr "投票オプション:"
+
+#: wppa-boxes-html.php:2584
+msgid "Marked as spam"
+msgstr ""
+
+#: wppa-boxes-html.php:2608
+#, fuzzy
+msgid "Edit!"
+msgstr "編集"
+
+#: wppa-boxes-html.php:2612
+msgid "Send!"
+msgstr ""
+
+#: wppa-boxes-html.php:2673
+#, fuzzy
+msgid "Your name:"
+msgstr "名称"
+
+#: wppa-boxes-html.php:2688
+#, fuzzy
+msgid "Your email:"
+msgstr "カスタムURLを入力してください"
+
+#: wppa-boxes-html.php:2704
+#, fuzzy
+msgid "Your comment:"
+msgstr "コメントを残す"
+
+#: wppa-boxes-html.php:2749
+#, fuzzy, php-format
+msgid "You must <a href=\"%s\">login</a> to enter a comment"
+msgstr "写真の投票にはログインが必須。"
+
+#: wppa-boxes-html.php:2752
+#, fuzzy
+msgid "You must login to enter a comment"
+msgstr "写真の投票にはログインが必須。"
+
+#: wppa-boxes-html.php:2764 wppa-functions.php:2326 wppa-thumbnails.php:635
+#, fuzzy, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%件のコメント"
+msgstr[1] "%件のコメント"
+
+#: wppa-boxes-html.php:2768
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: wppa-boxes-html.php:2809
+#, fuzzy
+msgid "Smilies are not available"
+msgstr "ページが利用できません。"
+
+#: wppa-boxes-html.php:2859
+#, fuzzy
+msgid "Show IPTC data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:2870
+#, fuzzy
+msgid "Hide IPTC data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:2910
+#, fuzzy
+msgid "No IPTC data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:2957
+#, fuzzy
+msgid "Show EXIF data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:2968
+#, fuzzy
+msgid "Hide EXIF data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:3010
+#, fuzzy
+msgid "No EXIF data"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-boxes-html.php:3125 wppa-boxes-html.php:3130
+#, fuzzy
+msgid "< Previous"
+msgstr "写真をブラウズ"
+
+#: wppa-boxes-html.php:3136 wppa-boxes-html.php:3141
+#, fuzzy
+msgid "Next >"
+msgstr "次のページ"
+
+#: wppa-boxes-html.php:3238 wppa-boxes-html.php:3306
+#, fuzzy
+msgid "See the authors albums"
+msgstr "アルバム"
+
+#: wppa-boxes-html.php:3242 wppa-boxes-html.php:3310
+#, fuzzy
+msgid "See the authors photos"
+msgstr "アルバムにある写真のサムネイル画像がひと目でわかります。"
+
+#: wppa-boxes-html.php:3246 wppa-boxes-html.php:3314
+#, fuzzy
+msgid "See all the authors photos"
+msgstr "アルバムにある写真のサムネイル画像がひと目でわかります。"
+
+#: wppa-boxes-html.php:3269
+#, fuzzy, php-format
+msgid "Photo by: %s"
+msgstr "投票: %s"
+
+#: wppa-boxes-html.php:3272 wppa-boxes-html.php:3335
+#, fuzzy, php-format
+msgid "%d max rating"
+msgid_plural "%d max ratings"
+msgstr[0] "投票:"
+msgstr[1] "投票:"
+
+#: wppa-boxes-html.php:3276 wppa-boxes-html.php:3339 wppa-non-admin.php:824
+#, php-format
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wppa-boxes-html.php:3280
+#, fuzzy, php-format
+msgid "Rating: %4.2f."
+msgstr "平均値:"
+
+#: wppa-boxes-html.php:3288
+#, fuzzy, php-format
+msgid "Photo %s not found."
+msgstr "写真が見当たりません。"
+
+#: wppa-boxes-html.php:3343
+#, fuzzy, php-format
+msgid "Mean value: %4.2f."
+msgstr "平均値:"
+
+#: wppa-boxes-html.php:3695
+msgid "Refresh"
+msgstr ""
+
+#: wppa-breadcrumb.php:119
+#, fuzzy
+msgid "Post:"
+msgstr "--- 同一記事またはページ ---"
+
+#: wppa-breadcrumb.php:119 wppa-breadcrumb.php:604
+#, fuzzy
+msgid "Page:"
+msgstr "次の&nbsp;ページ"
+
+#: wppa-breadcrumb.php:139
+msgid "with category:"
+msgstr ""
+
+#: wppa-breadcrumb.php:142 wppa-breadcrumb.php:157
+#, fuzzy
+msgid "with name:"
+msgstr "名称"
+
+#: wppa-breadcrumb.php:145 wppa-breadcrumb.php:161
+msgid "with words:"
+msgstr ""
+
+#: wppa-breadcrumb.php:154
+msgid "with tag:"
+msgstr ""
+
+#: wppa-breadcrumb.php:165
+msgid "of owner:"
+msgstr ""
+
+#: wppa-breadcrumb.php:170
+msgid "with iptc tag:"
+msgstr ""
+
+#: wppa-breadcrumb.php:170 wppa-breadcrumb.php:175
+#, fuzzy
+msgid "with content:"
+msgstr "名称"
+
+#: wppa-breadcrumb.php:175
+msgid "with exif tag:"
+msgstr ""
+
+#: wppa-breadcrumb.php:183 wppa-breadcrumb.php:207 wppa-breadcrumb.php:264
+#: wppa-breadcrumb.php:282 wppa-breadcrumb.php:305 wppa-breadcrumb.php:328
+#: wppa-breadcrumb.php:346 wppa-breadcrumb.php:358 wppa-breadcrumb.php:376
+#: wppa-breadcrumb.php:391 wppa-breadcrumb.php:410
+#, fuzzy
+msgid "View the thumbnails"
+msgstr "閲覧"
+
+#: wppa-breadcrumb.php:201
+#, fuzzy, php-format
+msgid "Searchresults from album %s and its subalbums"
+msgstr "使用するアルバム"
+
+#: wppa-breadcrumb.php:205 wppa-breadcrumb.php:210
+msgid "Searchstring:"
+msgstr "検索文字:"
+
+#: wppa-breadcrumb.php:219 wppa-breadcrumb.php:237
+#, fuzzy
+msgid "Photos by EXIF date"
+msgstr "アルバムデータが読めません。"
+
+#: wppa-breadcrumb.php:223 wppa-breadcrumb.php:241
+#, fuzzy
+msgid "Photos by date of upload"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-breadcrumb.php:227 wppa-breadcrumb.php:245
+msgid "Photos by date last modified"
+msgstr ""
+
+#: wppa-breadcrumb.php:257 wppa-breadcrumb.php:267
+#, fuzzy, php-format
+msgid "Photos by %s"
+msgstr "写真のエクスポート先: <b>%s</b>。"
+
+#: wppa-breadcrumb.php:274 wppa-breadcrumb.php:292 wppa-breadcrumb.php:320
+#: wppa-breadcrumb.php:338 wppa-breadcrumb.php:425
+#, fuzzy
+msgid "Various albums"
+msgstr ""
+"写真のみならず子アルバムをもったアルバムなど、さまざまなアルバムを作成するこ"
+"とができます。"
+
+#: wppa-breadcrumb.php:276 wppa-breadcrumb.php:294 wppa-breadcrumb.php:322
+#: wppa-breadcrumb.php:340 wppa-breadcrumb.php:429
+#, fuzzy
+msgid "Albums:"
+msgstr "アルバム"
+
+#: wppa-breadcrumb.php:280 wppa-breadcrumb.php:285
+msgid "Top rated photos"
+msgstr "評価の高い写真"
+
+#: wppa-breadcrumb.php:299 wppa-breadcrumb.php:309
+#, fuzzy
+msgid "Recently modified photos"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-breadcrumb.php:302 wppa-breadcrumb.php:312
+#, fuzzy
+msgid "Recently uploaded photos"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-breadcrumb.php:326 wppa-breadcrumb.php:331
+#, fuzzy
+msgid "Recently commented photos"
+msgstr "写真"
+
+#: wppa-breadcrumb.php:344 wppa-breadcrumb.php:349
+#, fuzzy
+msgid "Featured photos"
+msgstr "写真"
+
+#: wppa-breadcrumb.php:356 wppa-breadcrumb.php:361
+#, fuzzy
+msgid "Related photos"
+msgstr "写真"
+
+#: wppa-breadcrumb.php:368 wppa-breadcrumb.php:379
+#, fuzzy
+msgid "Tagged photos:"
+msgstr "写真"
+
+#: wppa-breadcrumb.php:368 wppa-breadcrumb.php:379
+#, fuzzy
+msgid "or"
+msgstr "エラー対象:"
+
+#: wppa-breadcrumb.php:370 wppa-breadcrumb.php:381
+msgid "Inverted"
+msgstr ""
+
+#: wppa-breadcrumb.php:408 wppa-breadcrumb.php:413
+#, fuzzy
+msgid "Recently updated albums"
+msgstr "アルバム"
+
+#: wppa-breadcrumb.php:423
+#, fuzzy, php-format
+msgid "Various albums by %s"
+msgstr ""
+"写真のみならず子アルバムをもったアルバムなど、さまざまなアルバムを作成するこ"
+"とができます。"
+
+#: wppa-breadcrumb.php:450 wppa-breadcrumb.php:465
+#, fuzzy
+msgid "Thumbnail view"
+msgstr "閲覧"
+
+#: wppa-breadcrumb.php:454 wppa-breadcrumb.php:455 wppa-breadcrumb.php:470
+#: wppa-breadcrumb.php:471
+#, fuzzy
+msgid "Thumbs"
+msgstr "「wppa/thumbs」ディレクトリは作成できませんでした。"
+
+#: wppa-breadcrumb.php:602
+msgid "Unpublished"
+msgstr ""
+
+#: wppa-breadcrumb.php:632
+msgid "Found photos will meet the search criteria as follows:"
+msgstr ""
+
+#: wppa-breadcrumb.php:635
+msgid "AND"
+msgstr ""
+
+#: wppa-breadcrumb.php:639
+msgid "OR"
+msgstr ""
+
+#: wppa-common-functions.php:76 wppa-common-functions.php:79
+#, fuzzy
+msgid "Default photo album for"
+msgstr "インポート用デフォルトアルバム:"
+
+#: wppa-common-functions.php:603 wppa-functions.php:4302
+#, fuzzy, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "非常に短い (1秒)"
+msgstr[1] "非常に短い (1秒)"
+
+#: wppa-common-functions.php:607 wppa-functions.php:4298
+#, fuzzy, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "非常に短い (1秒)"
+msgstr[1] "非常に短い (1秒)"
+
+#: wppa-common-functions.php:611 wppa-functions.php:4294
+#, fuzzy, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "時。"
+msgstr[1] "時。"
+
+#: wppa-common-functions.php:615 wppa-functions.php:4290
+#, fuzzy, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "日。"
+msgstr[1] "日。"
+
+#: wppa-common-functions.php:619 wppa-functions.php:4286
+#, fuzzy, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "週。"
+msgstr[1] "週。"
+
+#: wppa-common-functions.php:623
+#, fuzzy, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "非常に短い (1秒)"
+msgstr[1] "非常に短い (1秒)"
+
+#: wppa-common-functions.php:626
+#, fuzzy, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "非常に短い (1秒)"
+msgstr[1] "非常に短い (1秒)"
+
+#: wppa-common-functions.php:849 wppa-common-functions.php:850
+msgid "ERROR: Resized or copied image could not be created."
+msgstr ""
+
+#: wppa-common-functions.php:895 wppa-common-functions.php:896
+#, php-format
+msgid "ERROR: File %s is not a valid picture file."
+msgstr ""
+
+#: wppa-common-functions.php:1714
+#, php-format
+msgid ""
+"Based on your server memory limit you should not upload images larger then "
+"<strong>%d x %d (%2.1f MP)</strong>"
+msgstr ""
+
+#: wppa-common-functions.php:1989
+#, fuzzy
+msgid "- select an album -"
+msgstr "- アルバムの選択 -"
+
+#: wppa-common-functions.php:1995
+msgid "--- none ---"
+msgstr "--- なし ---"
+
+#: wppa-common-functions.php:2001
+#, fuzzy
+msgid "--- all ---"
+msgstr "リンクなし。"
+
+#: wppa-common-functions.php:2007
+#, fuzzy
+msgid "--- generic ---"
+msgstr "--- なし ---"
+
+#: wppa-common-functions.php:2018
+msgid "--- multiple see below ---"
+msgstr ""
+
+#: wppa-common-functions.php:2024
+#, fuzzy
+msgid "--- a selection box ---"
+msgstr "アルバムを削除しました。"
+
+#: wppa-common-functions.php:2058
+msgid "--- separate ---"
+msgstr "--- セパレート---"
+
+#: wppa-common-functions.php:2156
+#, fuzzy
+msgid "Photo id ="
+msgstr "写真を削除しました。"
+
+#: wppa-common-functions.php:2156
+msgid "Value ="
+msgstr ""
+
+#: wppa-exif-iptc-common.php:70 wppa-exif-iptc-common.php:136
+msgid "n.a."
+msgstr ""
+
+#: wppa-exif-iptc-common.php:214
+#, fuzzy
+msgid "Not Defined"
+msgstr "アルバムが定義されていません。"
+
+#: wppa-exif-iptc-common.php:215
+msgid "Manual"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:216
+#, fuzzy
+msgid "Program AE"
+msgstr ""
+"写真のインポート: FTPでアップロードした写真が一括でインポートできます。"
+
+#: wppa-exif-iptc-common.php:217
+msgid "Aperture-priority AE"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:218
+#, fuzzy
+msgid "Shutter speed priority AE"
+msgstr "スライドショーで使用するアニメーション速度を指定してください。"
+
+#: wppa-exif-iptc-common.php:219
+#, fuzzy
+msgid "Creative (Slow speed)"
+msgstr "遅い(1.2秒)"
+
+#: wppa-exif-iptc-common.php:220
+#, fuzzy
+msgid "Action (High speed)"
+msgstr "高い"
+
+#: wppa-exif-iptc-common.php:221
+#, fuzzy
+msgid "Portrait"
+msgstr "ポートレイトのみ:"
+
+#: wppa-exif-iptc-common.php:222
+msgid "Landscape"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:223
+msgid "Bulb"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:245
+#, fuzzy
+msgid "Average"
+msgstr "平均"
+
+#: wppa-exif-iptc-common.php:246
+#, fuzzy
+msgid "Center-weighted average"
+msgstr "平均"
+
+#: wppa-exif-iptc-common.php:247
+msgid "Spot"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:248
+msgid "Multi-spot"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:249
+msgid "Multi-segment"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:250
+msgid "Partial"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:251
+msgid "Other"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:287
+msgid "No Flash"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:289
+msgid "Fired"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:291
+msgid "Fired, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:293
+msgid "Fired, Return detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:295
+msgid "On, Did not fire"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:297
+msgid "On, Fired"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:299
+msgid "On, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:301
+msgid "On, Return detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:303
+#, fuzzy
+msgid "Off, Did not fire"
+msgstr "--- オフ ---"
+
+#: wppa-exif-iptc-common.php:305
+#, fuzzy
+msgid "Off, Did not fire, Return not detected"
+msgstr "--- オフ ---"
+
+#: wppa-exif-iptc-common.php:307
+msgid "Auto, Did not fire"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:309
+msgid "Auto, Fired"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:311
+msgid "Auto, Fired, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:313
+msgid "Auto, Fired, Return detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:315
+msgid "No flash function"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:317
+#, fuzzy
+msgid "Off, No flash function"
+msgstr "--- オフ ---"
+
+#: wppa-exif-iptc-common.php:319
+msgid "Fired, Red-eye reduction"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:321
+msgid "Fired, Red-eye reduction, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:323
+msgid "Fired, Red-eye reduction, Return detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:325
+msgid "On, Red-eye reduction"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:327
+msgid "Red-eye reduction, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:329
+msgid "On, Red-eye reduction, Return detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:331
+#, fuzzy
+msgid "Off, Red-eye reduction"
+msgstr "--- オフ ---"
+
+#: wppa-exif-iptc-common.php:333
+msgid "Auto, Did not fire, Red-eye reduction"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:335
+msgid "Auto, Fired, Red-eye reduction"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:337
+msgid "Auto, Fired, Red-eye reduction, Return not detected"
+msgstr ""
+
+#: wppa-exif-iptc-common.php:339
+msgid "Auto, Fired, Red-eye reduction, Return detected"
+msgstr ""
+
+#: wppa-functions.php:551
+#, fuzzy
+msgid "No related photos found."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#: wppa-functions.php:900
+#, fuzzy, php-format
+msgid ""
+"There are %s albums found. Only the first %s will be shown. Please refine "
+"your search criteria."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#: wppa-functions.php:1923 wppa-thumbnails.php:588
+#, fuzzy
+msgid "Are you sure you want to remove this photo?"
+msgstr "本当にこの写真をコピーしますか？"
+
+#: wppa-functions.php:1926 wppa-thumbnails.php:590
+msgid "Delete"
+msgstr "削除"
+
+#: wppa-functions.php:1993
+#, php-format
+msgid "%d dislike"
+msgid_plural "%d dislikes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wppa-functions.php:1995
+msgid "including mine"
+msgstr ""
+
+#: wppa-functions.php:2097
+#, fuzzy
+msgid "Comment edited"
+msgstr "コメントを残す"
+
+#: wppa-functions.php:2102
+#, fuzzy
+msgid "Photo comment"
+msgstr "コメントを残す"
+
+#: wppa-functions.php:2106
+#, fuzzy
+msgid "Comment on photo:"
+msgstr "コメントを残す"
+
+#: wppa-functions.php:2117
+#, fuzzy
+msgid "wrote on photo"
+msgstr "写真 "
+
+#: wppa-functions.php:2119
+msgid "Reply"
+msgstr ""
+
+#: wppa-functions.php:2121
+#, fuzzy
+msgid "Moderate comment admin"
+msgstr "プラグイン管理機能"
+
+#: wppa-functions.php:2124 wppa-functions.php:4143
+#, fuzzy
+msgid "Moderate manage photo"
+msgstr "フォトアルバム: アルバムの作成と管理。"
+
+#: wppa-functions.php:2127
+#, fuzzy
+msgid "Edit photo"
+msgstr "編集"
+
+#: wppa-functions.php:2138
+#, fuzzy
+msgid "You receive this email as you are assigned to moderate"
+msgstr "本当にこのアルバムを削除しますか？"
+
+#: wppa-functions.php:2150
+#, fuzzy
+msgid "You receive this email as administrator of the site"
+msgstr ""
+"<a href=\"http://wppa.opajaap.nl/\" target=\"_blank\">WPフォトアルバムプラス"
+"のドキュメントとデモ</a>のサイトにも<a href=\"http://wppa.opajaap.nl/?"
+"page_id=39\" target=\"_blank\">WPフォトアルバムプラスのチュートリアル</a>があ"
+"ります。"
+
+#: wppa-functions.php:2167
+#, fuzzy
+msgid "You receive this email as uploader of the photo"
+msgstr "本当にこの写真をコピーしますか？"
+
+#: wppa-functions.php:2184
+#, fuzzy
+msgid "You receive this email as owner of the album"
+msgstr ""
+"【警告】所有者を変更すると、このアルバムの修正ができなくなるほか、このアルバ"
+"ムへの写真のアップロードやインポートもできなくなります！"
+
+#: wppa-functions.php:2201
+#, fuzzy
+msgid "You receive this email because you commented this photo earlier."
+msgstr "本当にこのアルバムを削除しますか？"
+
+#: wppa-functions.php:2227
+#, fuzzy
+msgid "Comment added"
+msgstr "追加しました。"
+
+#: wppa-functions.php:2233
+#, fuzzy
+msgid ""
+"Sorry, you gave a wrong answer.\\n\\nPlease try again to solve the "
+"computation."
+msgstr "本当にこのアルバムを削除しますか？"
+
+#: wppa-functions.php:2244
+#, fuzzy
+msgid "Could not process comment.\\nProbably timed out."
+msgstr "オーファンフォトは回復できませんでした。"
+
+#: wppa-functions.php:2362
+msgid "A video can not be printed or downloaded"
+msgstr ""
+
+#: wppa-functions.php:2797
+#, fuzzy
+msgid "ERROR: Illegal attempt to enter a rating."
+msgstr "写真のエクスポート先: <b>%s</b>。"
+
+#: wppa-functions.php:2810
+#, fuzzy
+msgid "ERROR: Illegal attempt to enter a comment."
+msgstr "写真のエクスポート先: <b>%s</b>。"
+
+#: wppa-functions.php:3890
+#, fuzzy
+msgid "New Album"
+msgstr "新しいアルバムの作成"
+
+#: wppa-functions.php:3893
+#, fuzzy
+msgid "ERROR: Illegal attempt to create an album."
+msgstr "結果として、アルバム番号19の<b>中身</b>が表示されます。"
+
+#: wppa-functions.php:3897
+#, fuzzy
+msgid "Wrong captcha, please try again"
+msgstr "ファイルの処理中です。しばらくお待ちください..."
+
+#: wppa-functions.php:3910
+#, fuzzy, php-format
+msgid "Album #%s created"
+msgstr "写真のアップロード: 作成したアルバムへの写真のアップロード。"
+
+#: wppa-functions.php:3915
+#, fuzzy
+msgid "Could not create album"
+msgstr "アルバムが作成できません。"
+
+#: wppa-functions.php:3926
+#, fuzzy
+msgid "ERROR: Illegal attempt to upload a file."
+msgstr "写真のエクスポート先: <b>%s</b>。"
+
+#: wppa-functions.php:3966
+#, fuzzy
+msgid "Photo upload"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-functions.php:3967
+#, fuzzy, php-format
+msgid "%d photo successfully uploaded"
+msgid_plural "%d photos successfully uploaded"
+msgstr[0] "アップロード用ディレクトリを作成しました。"
+msgstr[1] "アップロード用ディレクトリを作成しました。"
+
+#: wppa-functions.php:3968
+#, fuzzy, php-format
+msgid "%s points added"
+msgstr "追加しました。"
+
+#: wppa-functions.php:3972
+#, fuzzy
+msgid "Upload failed"
+msgstr "失敗<br />"
+
+#: wppa-functions.php:3975
+#, fuzzy, php-format
+msgid "%d upload failed"
+msgid_plural "%d uploads failed"
+msgstr[0] "失敗<br />"
+msgstr[1] "失敗<br />"
+
+#: wppa-functions.php:4015
+#, fuzzy
+msgid "Error during upload"
+msgstr "写真はインポート中にサイズダウンされます。"
+
+#: wppa-functions.php:4020
+#, fuzzy
+msgid "Uploaded file is not an image"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-functions.php:4024
+#, fuzzy, php-format
+msgid ""
+"Only gif, jpg and png image files are supported. Returned filetype = %d."
+msgstr "丸みをもたせたコーナーが表示できるのは、最近のブラウザのみです。"
+
+#: wppa-functions.php:4030
+#, fuzzy, php-format
+msgid "Uploaded file is larger than the allowed maximum of %d x %d pixels."
+msgstr ""
+"警告: サイズがとても小さい写真をアップロードしようとしています。写真はサムネ"
+"イルサイズとカバーフォトサイズよりも大きくなければなりません。"
+
+#: wppa-functions.php:4036
+#, fuzzy, php-format
+msgid "Uploaded file %s already exists in this album."
+msgstr "インポートに成功またはすでにアルバムが存在したら削除する。"
+
+#: wppa-functions.php:4044
+#, fuzzy, php-format
+msgid "The image is too big. Max photo size: %d x %d (%2.1f MegaPixel)"
+msgstr "ウィジェットのサムネイルサイズ"
+
+#: wppa-functions.php:4067
+#, fuzzy
+msgid "Could not insert photo into db."
+msgstr "写真が挿入できません。query="
+
+#: wppa-functions.php:4139
+#, fuzzy, php-format
+msgid "New photo uploaded: %s"
+msgstr ""
+"新しいページを作成し、「フォトギャラリー」などの名前にし、コンテンツには次の"
+"ように記載します:"
+
+#: wppa-functions.php:4140
+#, fuzzy, php-format
+msgid "User %1$s uploaded photo %2$s into album %3$s"
+msgstr "使用するアルバム"
+
+#: wppa-functions.php:4142
+#, fuzzy
+msgid "This upload requires moderation"
+msgstr "写真のアップロード"
+
+#: wppa-functions.php:4146
+msgid "Details:"
+msgstr ""
+
+#: wppa-functions.php:4147
+#, fuzzy
+msgid "Manage photo"
+msgstr "フォトアルバム: アルバムの作成と管理。"
+
+#: wppa-functions.php:4283
+#, fuzzy
+msgid "You can upload after"
+msgstr "写真をアップロードしてください。"
+
+#: wppa-functions.php:4326 wppa-functions.php:4330 wppa-functions.php:4337
+#: wppa-functions.php:4341 wppa-non-admin.php:722
+msgid "Download"
+msgstr ""
+
+#: wppa-functions.php:4364
+msgid "Zoom in"
+msgstr ""
+
+#: wppa-non-admin.php:349
+msgid "Press f for fullscreen."
+msgstr ""
+
+#: wppa-non-admin.php:359 wppa-non-admin.php:429
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: wppa-non-admin.php:423
+msgid ""
+"Keys: f = next mode; q,x = exit; p = previous, n = next, s = start/stop, d = "
+"dismiss this notice."
+msgstr ""
+
+#: wppa-non-admin.php:424
+msgid "Keys: f = next mode; q,x = exit; d = dismiss this notice."
+msgstr ""
+
+#: wppa-non-admin.php:664 wppa-slideshow.php:228
+msgid "Start"
+msgstr "開始"
+
+#: wppa-non-admin.php:665
+msgid "Stop"
+msgstr ""
+
+#: wppa-non-admin.php:666 wppa-slideshow.php:220
+msgid "Slower"
+msgstr "遅く"
+
+#: wppa-non-admin.php:667 wppa-slideshow.php:236
+msgid "Faster"
+msgstr "速く"
+
+#: wppa-non-admin.php:668
+#, fuzzy
+msgid "Photo"
+msgstr "写真"
+
+#: wppa-non-admin.php:669
+msgid "of"
+msgstr ""
+
+#: wppa-non-admin.php:670
+#, fuzzy
+msgid "Previous photo"
+msgstr "写真をブラウズ"
+
+#: wppa-non-admin.php:671
+#, fuzzy
+msgid "Next photo"
+msgstr "編集"
+
+#: wppa-non-admin.php:672
+#, fuzzy
+msgid "Prev."
+msgstr "写真をブラウズ"
+
+#: wppa-non-admin.php:673 wppa-slideshow.php:990
+#, fuzzy
+msgid "Next"
+msgstr "次のページ"
+
+#: wppa-non-admin.php:674 wppa-slideshow.php:729 wppa-slideshow.php:741
+#: wppa-slideshow.php:832
+msgid "Average&nbsp;rating"
+msgstr "平均&nbsp;評価"
+
+#: wppa-non-admin.php:675 wppa-slideshow.php:791 wppa-slideshow.php:803
+#: wppa-slideshow.php:814
+msgid "My&nbsp;rating"
+msgstr "わたしの&nbsp;評価"
+
+#: wppa-non-admin.php:676
+msgid "Avg."
+msgstr ""
+
+#: wppa-non-admin.php:677
+msgid "Mine"
+msgstr ""
+
+#: wppa-non-admin.php:678
+#, fuzzy
+msgid "You marked this image as inappropriate."
+msgstr "本当にこのアルバムを削除しますか？"
+
+#: wppa-non-admin.php:681
+msgid "Please enter your name"
+msgstr ""
+
+#: wppa-non-admin.php:682
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: wppa-non-admin.php:683
+#, fuzzy
+msgid "Please enter a comment"
+msgstr "コメントを残す"
+
+#: wppa-non-admin.php:717
+msgid "Double click to start/stop slideshow running"
+msgstr ""
+
+#: wppa-non-admin.php:794 wppa-thumbnails.php:493
+msgid "wrote"
+msgstr ""
+
+#: wppa-non-admin.php:795 wppa-non-admin.php:800 wppa-non-admin.php:805
+#: wppa-non-admin.php:809 wppa-non-admin.php:816 wppa-non-admin.php:826
+#, fuzzy
+msgid "Photo not found"
+msgstr "写真が見当たりません。"
+
+#: wppa-non-admin.php:796
+#, fuzzy
+msgid "There are no commented photos (yet)"
+msgstr "写真"
+
+#: wppa-non-admin.php:799
+#, fuzzy
+msgid "View the featured photos"
+msgstr "評価の高い写真"
+
+#: wppa-non-admin.php:801
+msgid "There are no featured photos (yet)"
+msgstr ""
+
+#: wppa-non-admin.php:804
+#, fuzzy
+msgid "View the most recent uploaded photos"
+msgstr "評価の高い写真"
+
+#: wppa-non-admin.php:806
+#, fuzzy
+msgid "There are no uploaded photos (yet)"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-non-admin.php:810
+msgid "By:"
+msgstr ""
+
+#: wppa-non-admin.php:813
+msgid "No album defined (yet)"
+msgstr ""
+
+#: wppa-non-admin.php:817
+msgid "There are no photos (yet)"
+msgstr ""
+
+#: wppa-non-admin.php:820
+msgid "There are too many registered users in the system for this widget"
+msgstr ""
+
+#: wppa-non-admin.php:821
+#, fuzzy
+msgid "Photos uploaded by"
+msgstr "次のアルバム番号の写真を更新しました: "
+
+#: wppa-non-admin.php:825 wppa-thumbnails.php:645 wppa-thumbnails.php:1420
+#, php-format
+msgid "%d view"
+msgid_plural "%d views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wppa-non-admin.php:827
+#, fuzzy
+msgid "There are no rated photos (yet)"
+msgstr "評価の高い写真"
+
+#: wppa-slideshow.php:247
+msgid "Paused"
+msgstr ""
+
+#: wppa-slideshow.php:255
+#, fuzzy
+msgid ""
+"To see the full size images, you need to enable javascript in your browser."
+msgstr ""
+"スライドショーが不要な場合: このボックスからチェックを外してください。フルサ"
+"イズ画像のブラウジングは引き続き可能です。"
+
+#: wppa-slideshow.php:600
+msgid "Checkout"
+msgstr ""
+
+#: wppa-slideshow.php:660
+#, fuzzy, php-format
+msgid "Number of votes: <span id=\"wppa-vote-count-%s\" >%s</span>&nbsp;"
+msgstr ""
+"アルバムからの写真のエクスポート <span style=\"font-size:12px;\">(アルバム情"
+"報を含む)</span>:"
+
+#: wppa-slideshow.php:676 wppa-slideshow.php:819 wppa-slideshow.php:881
+#, fuzzy, php-format
+msgid "You must <a href=\"%s\">login</a> to vote"
+msgstr "写真の投票にはログインが必須。"
+
+#: wppa-slideshow.php:679 wppa-slideshow.php:822 wppa-slideshow.php:884
+#, fuzzy
+msgid "You must login to vote"
+msgstr "写真の投票にはログインが必須。"
+
+#: wppa-slideshow.php:715
+msgid "very low"
+msgstr "非常に低い"
+
+#: wppa-slideshow.php:716
+msgid "low"
+msgstr "低い"
+
+#: wppa-slideshow.php:717
+msgid "average"
+msgstr "平均"
+
+#: wppa-slideshow.php:718
+msgid "high"
+msgstr "高い"
+
+#: wppa-slideshow.php:719
+msgid "very high"
+msgstr "非常に高い"
+
+#: wppa-slideshow.php:766 wppa-slideshow.php:852
+#, fuzzy
+msgid "Click this if you do NOT like this image!"
+msgstr "現在アルバムに存在する写真をどうしますか？"
+
+#: wppa-slideshow.php:774 wppa-slideshow.php:860
+#, fuzzy
+msgid "Are you sure you want to mark this image as inappropriate?"
+msgstr "本当にこのアルバムを削除しますか？"
+
+#: wppa-slideshow.php:782 wppa-slideshow.php:869
+#, fuzzy
+msgid "Number of people who marked this photo as inappropriate"
+msgstr "アルバム番号:"
+
+#: wppa-slideshow.php:876
+#, fuzzy
+msgid "My rating:"
+msgstr "投票:"
+
+#: wppa-slideshow.php:968
+msgid "First"
+msgstr ""
+
+#: wppa-slideshow.php:977
+#, fuzzy
+msgid "Previous"
+msgstr "写真をブラウズ"
+
+#: wppa-slideshow.php:999
+msgid "Last"
+msgstr ""
+
+#: wppa-slideshow.php:1201
+#, fuzzy, php-format
+msgid "Photo %s of %s"
+msgstr "投票: %s"
+
+#: wppa-slideshow.php:1253
+#, fuzzy
+msgid "Click to start/stop"
+msgstr "停止"
+
+#: wppa-slideshow.php:1265
+#, fuzzy
+msgid "- - - Comments box activated - - -"
+msgstr ""
+"ここをチェックすると、サムネイル画像にマウスオーバーした時にエフェクトを実行"
+"します。"
+
+#: wppa-slideshow.php:1289
+#, fuzzy
+msgid "- - - IPTC box activated - - -"
+msgstr ""
+"ここをチェックすると、サムネイル画像にマウスオーバーした時にエフェクトを実行"
+"します。"
+
+#: wppa-slideshow.php:1313
+#, fuzzy
+msgid "- - - EXIF box activated - - -"
+msgstr ""
+"ここをチェックすると、サムネイル画像にマウスオーバーした時にエフェクトを実行"
+"します。"
+
+#: wppa-statistics.php:27
+#, php-format
+msgid "There is %d photo album"
+msgid_plural "There are %d photo albums"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wppa-statistics.php:28
+#, fuzzy
+msgid "The last album added is"
+msgstr "件のフォトアルバムがあります。最新のアルバムは"
+
+#: wppa-statistics.php:32
+msgid ", a subalbum of"
+msgstr "、次のアルバムのサブアルバム: "
+
+#: wppa-thumbnails.php:174 wppa-thumbnails.php:1059
+#, fuzzy
+msgid "View the top rated photos"
+msgstr "評価の高い写真"
+
+#: wppa-thumbnails.php:966
+#, php-format
+msgid "Missing thumbnail image #%s"
+msgstr ""
+
+#: wppa-thumbnails.php:1841
+msgid "Gold medal"
+msgstr ""
+
+#: wppa-thumbnails.php:1842
+msgid "Silver medal"
+msgstr ""
+
+#: wppa-thumbnails.php:1843
+msgid "Bronze medal"
+msgstr ""
+
+#: wppa-video.php:188
+msgid ""
+"There is no filetype available for your browser, or your browser does not "
+"support html5 video"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "WP Photo Album Plus"
+msgstr "フォトアルバム"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wp-photo-album-plus/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily manage and display your photo albums and slideshows within your "
+"WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "J.N. Breetvelt a.k.a. OpaJaap"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wppa.opajaap.nl/"
+msgstr ""
